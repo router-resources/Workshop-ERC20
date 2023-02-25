@@ -4,14 +4,14 @@ Step 2) Install Metamask extension => Create new account
 
 Step 3) Connect to Mumbai Network :-
 1. Go to https://mumbai.polygonscan.com/
-2. Scroll down to the bottom end and click on Add Mumbai Network 
-
+2. Scroll down to the bottom end and click on Add Mumbai Network <br/>
 <img width="413" alt="image" src="https://user-images.githubusercontent.com/124175970/221346184-158921ef-8a72-4197-9706-2e0fb052513b.png">
 
 
 Step 4) Connect to Fuji Network :-
 	1. Go to https://testnet.snowtrace.io/ 
 2. Scroll down to the bottom end and click on Add C-Chain ( Fuji ) Network 
+<br/>
 <img width="479" alt="image" src="https://user-images.githubusercontent.com/124175970/221346200-dce7c091-069d-49b3-9dae-c77b69f5f23d.png">
 
 
