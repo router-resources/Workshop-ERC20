@@ -16,6 +16,19 @@ Step 1 ) Open Remix IDE https://remix.ethereum.org/
 
 Step 2) Install Metamask extension from https://metamask.io/download/ => Create new account
 
+<img width="799" alt="image" src="https://user-images.githubusercontent.com/124175970/222491439-8e2e4487-99e0-4b1c-8cc4-5024d23b4569.png">
+
+<img width="809" alt="image" src="https://user-images.githubusercontent.com/124175970/222491847-f177213e-ae1b-4d17-979d-94754c3cd761.png">
+
+<img width="858" alt="image" src="https://user-images.githubusercontent.com/124175970/222492848-56c8be45-df82-43a6-9ab1-721ed48d5757.png">
+
+<img width="572" alt="image" src="https://user-images.githubusercontent.com/124175970/222493207-0b3f9cb0-e0dd-496e-b2f2-58a808afee77.png">
+
+<img width="607" alt="image" src="https://user-images.githubusercontent.com/124175970/222493438-d097d115-72de-4f46-8c5e-690a442e94a7.png">
+
+<img width="713" alt="image" src="https://user-images.githubusercontent.com/124175970/222493677-615a4116-25fa-4537-a6e9-83a89b7be35f.png">
+
+
 Step 3) Connect to Mumbai Network :-
 1. Go to https://mumbai.polygonscan.com/
 2. Scroll down to the bottom end and click on Add Mumbai Network <br/>
@@ -29,13 +42,16 @@ Step 4) Connect to Fuji Network :-
 <img width="479" alt="image" src="https://user-images.githubusercontent.com/124175970/221346200-dce7c091-069d-49b3-9dae-c77b69f5f23d.png">
 
 
-Step 5) Come to Remix again and compile the code
+Step 5) Come to Remix again and compile the code ( ctrl + s)
 
 Step 6) Select Inject Provider from Environments in Deployments section<br/>
 <img width="241" alt="image" src="https://user-images.githubusercontent.com/124175970/221346226-e0e851b9-8212-481f-9901-26793e19fa1a.png">
 
 
 Step 7) Switch to Fuji Network and copy your wallet address  
+
+<img width="418" alt="image" src="https://user-images.githubusercontent.com/124175970/222494290-26e66b6d-62e7-498b-ae3a-7b2f8395fc37.png">
+
 
 Step 8) Add faucet to your account by visiting https://faucet.avax.network/  and pasting your wallet address and then click on REQUEST 2 AVAX <br/>
 <img width="332" alt="image" src="https://user-images.githubusercontent.com/124175970/221346259-23639bf9-22dd-4b01-a3ed-10f738ae6873.png">
