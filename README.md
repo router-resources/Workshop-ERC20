@@ -1,20 +1,20 @@
 Step 1 ) Open Remix IDE https://remix.ethereum.org/ 
 
-2) Create a new workspace 
+Step 2 ) Create a new workspace 
 
 <img width="600" alt="image" height="300" height="300" height="300" height="300" height="300" src="https://user-images.githubusercontent.com/124175970/222487874-7f661c6c-7ad1-4cd0-8364-216376b5eb8d.png">
 
-3) Create a new file, give a name and save it with ".sol" extension
+Step 3 ) Create a new file, give a name and save it with ".sol" extension
 
 <img width="600" alt="image" height="300" height="300" height="300" height="300" height="300" src="https://user-images.githubusercontent.com/124175970/222489012-d0697c9a-c7db-41d8-9591-8b3455862d0a.png">
 
 
-4) Copy the code from coin.sol and paste it in the editing area
+Step 4 ) Copy the code from coin.sol and paste it in the editing area
 
 <img width="600" alt="image" height="300" height="300" height="300" height="300" height="300" src="https://user-images.githubusercontent.com/124175970/222489772-ceecb651-0554-4c0a-8185-3684fae93b7a.png">
 
 
-Step 2) Install Metamask extension from https://metamask.io/download/ => Create new account
+Step 5 ) Install Metamask extension from https://metamask.io/download/ => Create new account
 
 <img width="600" alt="image" height="300" height="300" height="300" height="300" height="300" src="https://user-images.githubusercontent.com/124175970/222491439-8e2e4487-99e0-4b1c-8cc4-5024d23b4569.png">
 
