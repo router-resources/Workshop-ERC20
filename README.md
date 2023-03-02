@@ -22,6 +22,8 @@ Step 6) Open the extension and click on Create Wallet
 
 
 <img width="600" alt="image" height="300" height="300" height="300" height="300" height="300" src="https://user-images.githubusercontent.com/124175970/222492848-56c8be45-df82-43a6-9ab1-721ed48d5757.png">
+
+
 Step 7) Set a password for your wallet
 
 
@@ -32,7 +34,6 @@ Step 8) Select either of the 2 options. Securing your wallet is recommended.But 
 
 <img width="600" alt="image" height="300" height="300" height="300" height="300" height="300" src="https://user-images.githubusercontent.com/124175970/222493438-d097d115-72de-4f46-8c5e-690a442e94a7.png">
 
-<img width="600" alt="image" height="300" height="300" height="300" height="300" height="300" src="https://user-images.githubusercontent.com/124175970/222493677-615a4116-25fa-4537-a6e9-83a89b7be35f.png">
 
 
 Step 3) Connect to Mumbai Network :-
