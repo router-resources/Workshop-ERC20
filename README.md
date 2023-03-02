@@ -84,7 +84,7 @@ Step 10) Connect to Fuji Network :-
 
 
 
-Step 11) Come to Remix again and compile the code ( ctrl + s)
+Step 11) Come to Remix again and compile the code ( ctrl + s )
 
 Step 12) Select Inject Provider from Environments in Deployments section<br/>
 
