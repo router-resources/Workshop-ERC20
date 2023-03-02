@@ -1,4 +1,6 @@
-#CrossChain ERC20 step by step guide 🚀#
+# `CrossChain ERC-20`
+
+> Effortlessly transfer ERC-20 tokens from one chain to another. Made using Router Cross-Talk.
 
 Step 1) Open Remix IDE https://remix.ethereum.org/ 
 
