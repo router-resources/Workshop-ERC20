@@ -1,6 +1,20 @@
-Step 1 ) Open Remix IDE https://remix.ethereum.org/  => Create a new file => paste the code
+Step 1 ) Open Remix IDE https://remix.ethereum.org/ 
 
-Step 2) Install Metamask extension => Create new account
+2) Create a new workspace 
+
+<img width="585" alt="image" src="https://user-images.githubusercontent.com/124175970/222487874-7f661c6c-7ad1-4cd0-8364-216376b5eb8d.png">
+
+3) Create a new file, give a name and save it with ".sol" extension
+
+<img width="341" alt="image" src="https://user-images.githubusercontent.com/124175970/222489012-d0697c9a-c7db-41d8-9591-8b3455862d0a.png">
+
+
+4) Copy the code from coin.sol and paste it in the editing area
+
+<img width="931" alt="image" src="https://user-images.githubusercontent.com/124175970/222489772-ceecb651-0554-4c0a-8185-3684fae93b7a.png">
+
+
+Step 2) Install Metamask extension from https://metamask.io/download/ => Create new account
 
 Step 3) Connect to Mumbai Network :-
 1. Go to https://mumbai.polygonscan.com/
