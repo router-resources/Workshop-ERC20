@@ -15,7 +15,7 @@ If this repository helps you build cross-chain dapps faster and easier - please 
 
 # 🤝 `Need help?`
 
-If you need help or have other some questions - don't hesitate to write in our discord channel and we will check asap. [Discord link](https://discord.gg/xvx2pFu9). The best thing about this is the super active community ready to help at any time! We help each other.
+If you need help or have other some questions - don't hesitate to write in our discord channel and we will check asap. [Discord link](https://discord.com/invite/xnb3nNYC). The best thing about this is the super active community ready to help at any time! We help each other.
 
 # ✌️`Let's Begin 🚀`
 
