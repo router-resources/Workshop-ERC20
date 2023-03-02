@@ -1,4 +1,4 @@
-# `CrossChain ERC-20`
+# `CrossChain ERC-20 token Step by Step Guide`
 
 > Effortlessly transfer ERC-20 tokens from one chain to another. Made using Router Cross-Talk.
 
