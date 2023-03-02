@@ -1,26 +1,32 @@
-Step 1 ) Open Remix IDE https://remix.ethereum.org/ 
+Step 1) Open Remix IDE https://remix.ethereum.org/ 
 
-Step 2 ) Create a new workspace 
+Step 2) Create a new workspace 
 
 <img width="600" alt="image" height="300" height="300" height="300" height="300" height="300" src="https://user-images.githubusercontent.com/124175970/222487874-7f661c6c-7ad1-4cd0-8364-216376b5eb8d.png">
 
-Step 3 ) Create a new file, give a name and save it with ".sol" extension
+Step 3) Create a new file, give a name and save it with ".sol" extension
 
 <img width="600" alt="image" height="300" height="300" height="300" height="300" height="300" src="https://user-images.githubusercontent.com/124175970/222489012-d0697c9a-c7db-41d8-9591-8b3455862d0a.png">
 
 
-Step 4 ) Copy the code from coin.sol and paste it in the editing area
+Step 4) Copy the code from coin.sol and paste it in the editing area
 
 <img width="600" alt="image" height="300" height="300" height="300" height="300" height="300" src="https://user-images.githubusercontent.com/124175970/222489772-ceecb651-0554-4c0a-8185-3684fae93b7a.png">
 
 
-Step 5 ) Install Metamask extension from https://metamask.io/download/ => Create new account
+Step 5) Install Metamask extension from https://metamask.io/download/ 
 
 <img width="600" alt="image" height="300" height="300" height="300" height="300" height="300" src="https://user-images.githubusercontent.com/124175970/222491439-8e2e4487-99e0-4b1c-8cc4-5024d23b4569.png">
 
+Step 6) Open the extension and click on Create Wallet
+
 <img width="600" alt="image" height="100" src="https://user-images.githubusercontent.com/124175970/222491847-f177213e-ae1b-4d17-979d-94754c3cd761.png">
 
+Step 7) Set a password for your wallet
+
 <img width="600" alt="image" height="300" height="300" height="300" height="300" height="300" src="https://user-images.githubusercontent.com/124175970/222492848-56c8be45-df82-43a6-9ab1-721ed48d5757.png">
+
+Step 7) 
 
 <img width="600" alt="image" height="300" height="300" height="300" height="300" height="300" src="https://user-images.githubusercontent.com/124175970/222493207-0b3f9cb0-e0dd-496e-b2f2-58a808afee77.png">
 
