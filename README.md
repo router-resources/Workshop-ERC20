@@ -16,7 +16,7 @@ Step 1 ) Open Remix IDE https://remix.ethereum.org/
 
 Step 2) Install Metamask extension from https://metamask.io/download/ => Create new account
 
-<img width="20em" alt="image" src="https://user-images.githubusercontent.com/124175970/222491439-8e2e4487-99e0-4b1c-8cc4-5024d23b4569.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/124175970/222491439-8e2e4487-99e0-4b1c-8cc4-5024d23b4569.png">
 
 <img width="809" alt="image" src="https://user-images.githubusercontent.com/124175970/222491847-f177213e-ae1b-4d17-979d-94754c3cd761.png">
 
