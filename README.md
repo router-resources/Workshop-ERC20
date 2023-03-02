@@ -108,7 +108,10 @@ Step 25) When all 4 green checks are there, come back to Remix again and switch 
 
 Step 26) Call the function , totalSupply of the Mumbai contract deployed to see the ERC20 tokens transferred
 
+Step 27) Earn your NFT Certificates 
 
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd8Xuiuw32kOqGsWmT5s7GLjLVZ_rHXw9bAJbdbr0XzrVG6RA/viewform?embedded=true" width="640" height="2038" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 	
 
