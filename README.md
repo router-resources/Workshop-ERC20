@@ -32,14 +32,14 @@ Step 2) Install Metamask extension from https://metamask.io/download/ => Create 
 Step 3) Connect to Mumbai Network :-
 1. Go to https://mumbai.polygonscan.com/
 2. Scroll down to the bottom end and click on Add Mumbai Network <br/>
-<img width="600" alt="image" height="300" height="300" height="300" height="300" height="300" src="https://user-images.githubusercontent.com/124175970/221346184-158921ef-8a72-4197-9706-2e0fb052513b.png">
+<img width="600" alt="image" height="100"  src="https://user-images.githubusercontent.com/124175970/221346184-158921ef-8a72-4197-9706-2e0fb052513b.png">
 
 
 Step 4) Connect to Fuji Network :-
 	1. Go to https://testnet.snowtrace.io/ 
 2. Scroll down to the bottom end and click on Add C-Chain ( Fuji ) Network 
 <br/>
-<img width="600" alt="image" height="300" height="300" height="300" height="300" height="300" src="https://user-images.githubusercontent.com/124175970/221346200-dce7c091-069d-49b3-9dae-c77b69f5f23d.png">
+<img width="600" alt="image" height="100" src="https://user-images.githubusercontent.com/124175970/221346200-dce7c091-069d-49b3-9dae-c77b69f5f23d.png">
 
 
 Step 5) Come to Remix again and compile the code ( ctrl + s)
