@@ -13,22 +13,22 @@ Step 4) Copy the code from coin.sol and paste it in the editing area
 
 <img width="600" alt="image" height="300" height="300" height="300" height="300" height="300" src="https://user-images.githubusercontent.com/124175970/222489772-ceecb651-0554-4c0a-8185-3684fae93b7a.png">
 
+Step 5) Install Metamask extension from https://metamask.io/download/ and to your browser
 
-Step 5) Install Metamask extension from https://metamask.io/download/ 
-
-<img width="600" alt="image" height="300" height="300" height="300" height="300" height="300" src="https://user-images.githubusercontent.com/124175970/222491439-8e2e4487-99e0-4b1c-8cc4-5024d23b4569.png">
-
-Step 6) Open the extension and click on Create Wallet
 
 <img width="600" alt="image" height="100" src="https://user-images.githubusercontent.com/124175970/222491847-f177213e-ae1b-4d17-979d-94754c3cd761.png">
+Step 6) Open the extension and click on Create Wallet
 
-Step 7) Set a password for your wallet
+
 
 <img width="600" alt="image" height="300" height="300" height="300" height="300" height="300" src="https://user-images.githubusercontent.com/124175970/222492848-56c8be45-df82-43a6-9ab1-721ed48d5757.png">
+Step 7) Set a password for your wallet
 
-Step 7) 
+
 
 <img width="600" alt="image" height="300" height="300" height="300" height="300" height="300" src="https://user-images.githubusercontent.com/124175970/222493207-0b3f9cb0-e0dd-496e-b2f2-58a808afee77.png">
+
+Step 8) Select either of the 2 options. Securing your wallet is recommended.But for the time being, we can go with the 1st option.
 
 <img width="600" alt="image" height="300" height="300" height="300" height="300" height="300" src="https://user-images.githubusercontent.com/124175970/222493438-d097d115-72de-4f46-8c5e-690a442e94a7.png">
 
