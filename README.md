@@ -2,6 +2,15 @@
 
 > Effortlessly transfer ERC-20 tokens from one chain to another. Made using Router Cross-Talk.
 
+# ⭐️ `Star us`
+
+If this repository helps you build cross-chain dapps faster and easier - please star this project, every star makes us very happy!
+
+# 🤝 `Need help?`
+
+If you need help or have other some questions - don't hesitate to write in our discord channel and we will check asap. [Discord link](https://discord.gg/xvx2pFu9). The best thing about this is the super active community ready to help at any time! We help each other.
+
+
 Step 1) Open Remix IDE https://remix.ethereum.org/ 
 
 Step 2) Create a new workspace 
