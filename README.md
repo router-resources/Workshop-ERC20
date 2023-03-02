@@ -143,19 +143,19 @@ Step 22) Switch to Fuji Network and mint some ERC20 Tokens through mint function
 
 
 
-<img width="600" alt="image" height="500"  src="https://user-images.githubusercontent.com/124175970/221346368-d761fb5c-4596-44c8-973d-0c97e800c267.png">
+<img width="600" alt="image" height="300"  src="https://user-images.githubusercontent.com/124175970/221346368-d761fb5c-4596-44c8-973d-0c97e800c267.png">
 
 
 
-Step 22) Copy the Fuji contract address , visit https://devnet-faucet.routerprotocol.com/ , paste the address there and click on Get Route to get Route Tokens in the Fuji contract <br/>
+Step 23) Copy the Fuji contract address , visit https://devnet-faucet.routerprotocol.com/ , paste the address there and click on Get Route to get Route Tokens in the Fuji contract <br/>
 
 
 
-<img width="600" alt="image" height="300" height="300" height="300" height="300" height="300" src="https://user-images.githubusercontent.com/124175970/221346388-5dbdaa27-58aa-4633-b6cd-05eb9ebc39da.png">
+<img width="600" alt="image" height="500" src="https://user-images.githubusercontent.com/124175970/221346388-5dbdaa27-58aa-4633-b6cd-05eb9ebc39da.png">
 
 
 
-Step 23) Come back to Remix ,and Call TransferCrossChain function of the Fuji contract deployed , passing in 0, 80001 ,30000000000 ,recipient address and amount as parameters<br/>
+Step 24) Come back to Remix ,and Call TransferCrossChain function of the Fuji contract deployed , passing in 0, 80001 ,30000000000 ,recipient address and amount as parameters<br/>
 
 
 
@@ -163,13 +163,13 @@ Step 23) Come back to Remix ,and Call TransferCrossChain function of the Fuji co
 
 
 
-Step 24) You can see the CrossTalk transactions here https://devnet-explorer.routerprotocol.com/crosstalks 
+Step 25) You can see the CrossTalk transactions here https://devnet-explorer.routerprotocol.com/crosstalks 
 
-Step 25) When all 4 green checks are there, come back to Remix again and switch to Mumbai Network
+Step 26) When all 4 green checks are there, come back to Remix again and switch to Mumbai Network
 
-Step 26) Call the function , totalSupply of the Mumbai contract deployed to see the ERC20 tokens transferred
+Step 27) Call the function , totalSupply of the Mumbai contract deployed to see the ERC20 tokens transferred
 
-Step 27) Earn your NFT Certificate . Fill the below form.
+Step 28) Earn your NFT Certificate . Fill the below form.
 
 https://docs.google.com/forms/d/e/1FAIpQLSd8Xuiuw32kOqGsWmT5s7GLjLVZ_rHXw9bAJbdbr0XzrVG6RA/viewform?embedded=true
 	
