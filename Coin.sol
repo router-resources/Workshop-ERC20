@@ -1,10 +1,13 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.17;
-import "evm-gateway-contract/contracts/ICrossTalkApplication.sol";
-import "evm-gateway-contract/contracts/IGateway.sol";
+import "evm-gateway-contract@1.0.5/contracts/ICrossTalkApplication.sol";
+import "evm-gateway-contract@1.0.5/contracts/IGateway.sol";
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 contract coin is ERC20, ICrossTalkApplication{
   
+
+
+
     address owner;
     address public gatewayContract;
     uint64 public destGasLimit;
@@ -58,6 +61,7 @@ constructor( address payable gatewayAddress,
                 destGasPrice,
                 _dstChainType,
                 _dstChainId
+                // "0x"
             ),
             Utils.ContractCalls(payloads, addresses)
         );
@@ -76,6 +80,8 @@ constructor( address payable gatewayAddress,
             b := m
         }
     }
+
+    
     function setDestinationGasPrice(uint64 _destGasLimit) public{
         destGasLimit=_destGasLimit;
     }
