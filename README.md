@@ -106,6 +106,11 @@ Step 12) Select Inject Provider from Environments in Deployments section<br/>
 <img width="600" alt="image" height="500"  src="https://user-images.githubusercontent.com/124175970/221346226-e0e851b9-8212-481f-9901-26793e19fa1a.png">
 
 Step 13) Switch to Binance Chain and copy your wallet address
+
+<img width="600" alt="image" height="500" src="https://user-images.githubusercontent.com/124175970/222494290-26e66b6d-62e7-498b-ae3a-7b2f8395fc37.png">
+
+Or 
+
 Step 13) Switch to Fuji Network and copy your wallet address  
 
 
@@ -113,7 +118,11 @@ Step 13) Switch to Fuji Network and copy your wallet address
 <img width="600" alt="image" height="500" src="https://user-images.githubusercontent.com/124175970/222494290-26e66b6d-62e7-498b-ae3a-7b2f8395fc37.png">
 
 
-Step 14) If you are using Binance Chain as your source chain
+Step 14) Add faucet to your account by visiting https://testnet.bnbchain.org/faucet-smart  and pasting your wallet address and then click on REQUEST 2 AVAX <br/>
+
+<img width="706" alt="image" src="https://user-images.githubusercontent.com/124175970/226447308-c4f07d40-3421-4638-bd77-19ffc70b62fc.png">
+
+
 Step 14) Add faucet to your account by visiting https://faucet.avax.network/  and pasting your wallet address and then click on REQUEST 2 AVAX <br/>
 
 
@@ -132,15 +141,15 @@ Step 16) Add faucet to your account by visiting https://faucet.polygon.technolog
 
 
 
-Step 17) Come back to Remix and switch to Fuji Network
+Step 17) Come back to Remix and switch to Fuji/Binance Network
 
-Step 18) Deploy the contract by passing Gateway address of Fuji and DestGasLimit as 500000
+Step 18) Deploy the contract by passing Gateway address of Fuji/Binance and DestGasLimit as 500000
 
 Step 19) Switch to Mumbai Network and deploy the contract by passing Gateway address of Mumbai and DestGasLimit as 500000
 
 Gateway addresses for respective chains can be found here https://devnet.lcd.routerprotocol.com/router-protocol/router-chain/multichain/chain_config
 
-Step 20) Switch to Fuji Network again and call setContractOnChain  
+Step 20) Switch to Fuji/Binance Network again and call setContractOnChain  
 Function of the Fuji contract passing in 0, 80001 and address of the Mumbai contract deployed respectively<br/>
 
 
@@ -152,7 +161,7 @@ Function of the Fuji contract passing in 0, 80001 and address of the Mumbai cont
 Step 21) Switch to Mumbai Network and call setContractOnChain  
 Function of the Mumbai contract passing in 0, 43113 and address of the Fuji Contract Deployed 
 
-Step 22) Switch to Fuji Network and mint some ERC20 Tokens through mint function of the Fuji contract deployed<br/>
+Step 22) Switch to Fuji/Binance Network and mint some ERC20 Tokens through mint function of the Fuji/Binance contract deployed<br/>
 
 
 
@@ -168,7 +177,7 @@ Step 23) Copy the Fuji contract address , visit https://devnet-faucet.routerprot
 
 
 
-Step 24) Come back to Remix ,and Call TransferCrossChain function of the Fuji contract deployed , passing in 0, 80001 ,30000000000 ,recipient address and amount as parameters<br/>
+Step 24) Come back to Remix ,and Call TransferCrossChain function of the Fuji/Binance contract deployed , passing in 0, 80001 ,30000000000 ,recipient address and amount as parameters<br/>
 
 
 
