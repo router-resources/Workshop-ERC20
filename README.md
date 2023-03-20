@@ -122,6 +122,7 @@ Step 14) Add faucet to your account by visiting https://testnet.bnbchain.org/fau
 
 <img width="706" alt="image" src="https://user-images.githubusercontent.com/124175970/226447308-c4f07d40-3421-4638-bd77-19ffc70b62fc.png">
 
+Or
 
 Step 14) Add faucet to your account by visiting https://faucet.avax.network/  and pasting your wallet address and then click on REQUEST 2 AVAX <br/>
 
