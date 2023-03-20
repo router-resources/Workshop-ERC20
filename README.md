@@ -73,12 +73,22 @@ Step 9) Connect to Mumbai Network :-
 
 <img width="600" alt="image" height="100"  src="https://user-images.githubusercontent.com/124175970/221346184-158921ef-8a72-4197-9706-2e0fb052513b.png">
 
+Step 10) connect to Binance Network :-
+	1. Go to https://www.ankr.com/rpc/bsc/
+	2. Select Testnet 
+	3. Click on add to Network
+	</br>
+	
+	<img width="718" alt="image" src="https://user-images.githubusercontent.com/124175970/226444874-858cc4fc-0b6f-4ed7-ac9d-fe349fb76667.png">
+
+<br/>
+Or
+</br>
 
 Step 10) Connect to Fuji Network :-
 	1. Go to https://testnet.snowtrace.io/ 
 2. Scroll down to the bottom end and click on Add C-Chain ( Fuji ) Network 
 <br/>
-
 
 <img width="600" alt="image" height="100" src="https://user-images.githubusercontent.com/124175970/221346200-dce7c091-069d-49b3-9dae-c77b69f5f23d.png">
 
@@ -92,7 +102,7 @@ Step 12) Select Inject Provider from Environments in Deployments section<br/>
 
 <img width="600" alt="image" height="500"  src="https://user-images.githubusercontent.com/124175970/221346226-e0e851b9-8212-481f-9901-26793e19fa1a.png">
 
-
+Step 13) Switch to Binance Chain and copy your wallet address
 Step 13) Switch to Fuji Network and copy your wallet address  
 
 
@@ -100,7 +110,7 @@ Step 13) Switch to Fuji Network and copy your wallet address
 <img width="600" alt="image" height="500" src="https://user-images.githubusercontent.com/124175970/222494290-26e66b6d-62e7-498b-ae3a-7b2f8395fc37.png">
 
 
-
+Step 14) If you are using Binance Chain as your source chain
 Step 14) Add faucet to your account by visiting https://faucet.avax.network/  and pasting your wallet address and then click on REQUEST 2 AVAX <br/>
 
 
