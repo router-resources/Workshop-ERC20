@@ -77,9 +77,10 @@ Step 10) connect to Binance Network :-
 	1. Go to https://www.ankr.com/rpc/bsc/
 	2. Select Testnet 
 	3. Click on add to Network
-	</br>
+	<img width="718" alt="image" src="https://user-images.githubusercontent.com/124175970/226446271-9fe1a7cc-9166-46eb-a50a-39258ea3f222.png">
+
 	
-	<img width="600" alt="image" height="100" src="https://user-images.githubusercontent.com/124175970/226444874-858cc4fc-0b6f-4ed7-ac9d-fe349fb76667.png">
+	
 
 <br/>
 Or
