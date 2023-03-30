@@ -144,11 +144,11 @@ Step 16) Add faucet to your account by visiting https://faucet.polygon.technolog
 
 Step 17) Come back to Remix and switch to Fuji/Binance Network
 
-Step 18) Deploy the contract by passing Gateway address of Fuji/Binance and DestGasLimit as 500000
+Step 18) Deploy the contract by passing Gateway address of Fuji/Binance ,DestGasLimit as 500000 and feePayer as router1z6ralzg5tsznq9s6xmutyeen7evylcj7harhmq
 
 Step 19) Switch to Mumbai Network and deploy the contract by passing Gateway address of Mumbai and DestGasLimit as 500000
 
-Gateway addresses for respective chains can be found here https://devnet.lcd.routerprotocol.com/router-protocol/router-chain/multichain/chain_config
+Gateway addresses for respective chains can be found here https://devnet-alpha.lcd.routerprotocol.com/router-protocol/router-chain/multichain/chain_config
 
 Step 20) Switch to Fuji/Binance Network again and call setContractOnChain  
 Function of the Fuji contract passing in 0, 80001 and address of the Mumbai contract deployed respectively<br/>
@@ -170,15 +170,9 @@ Step 22) Switch to Fuji/Binance Network and mint some ERC20 Tokens through mint 
 
 
 
-Step 23) Copy the Fuji contract address , visit https://devnet-faucet.routerprotocol.com/ , paste the address there and click on Get Route to get Route Tokens in the Fuji contract <br/>
 
 
-
-<img width="600" alt="image" height="500" src="https://user-images.githubusercontent.com/124175970/221346388-5dbdaa27-58aa-4633-b6cd-05eb9ebc39da.png">
-
-
-
-Step 24) Come back to Remix ,and Call TransferCrossChain function of the Fuji/Binance contract deployed , passing in 0, 80001 ,30000000000 ,recipient address and amount as parameters<br/>
+Step 23) Come back to Remix ,and Call TransferCrossChain function of the Fuji/Binance contract deployed , passing in 0, 80001 ,30000000000 ,recipient address and amount as parameters<br/>
 
 
 
@@ -186,13 +180,13 @@ Step 24) Come back to Remix ,and Call TransferCrossChain function of the Fuji/Bi
 
 
 
-Step 25) You can see the CrossTalk transactions here https://devnet-explorer.routerprotocol.com/crosstalks 
+Step 24) You can see the CrossTalk transactions here https://alpha-explorer-ui.routerprotocol.com/crosstalks
 
-Step 26) When all 4 green checks are there, come back to Remix again and switch to Mumbai Network
+Step 25) When all 4 green checks are there, come back to Remix again and switch to Mumbai Network
 
-Step 27) Call the function , totalSupply of the Mumbai contract deployed to see the ERC20 tokens transferred
+Step 26) Call the function , totalSupply of the Mumbai contract deployed to see the ERC20 tokens transferred
 
-Step 28) Earn your NFT Certificate . Fill the below form.
+Step 27) Earn your NFT Certificate . Fill the below form.
 
 https://docs.google.com/forms/d/e/1FAIpQLSd8Xuiuw32kOqGsWmT5s7GLjLVZ_rHXw9bAJbdbr0XzrVG6RA/viewform?embedded=true
 	
