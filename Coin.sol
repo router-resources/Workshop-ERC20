@@ -1,23 +1,25 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.17;
-import "evm-gateway-contract@1.0.5/contracts/ICrossTalkApplication.sol";
-import "evm-gateway-contract@1.0.5/contracts/IGateway.sol";
+import "@routerprotocol/evm-gateway-contracts@1.0.5/contracts/IGateway.sol";
+import "@routerprotocol/evm-gateway-contracts@1.0.5/contracts/ICrossTalkApplication.sol";
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
+
+
+// @routerprotocol/evm-gateway-contracts@1.0.5
+// @routerprotocol/router-crosstalk-utils@1.0.5
 contract coin is ERC20, ICrossTalkApplication{
   
-
-
-
     address owner;
     address public gatewayContract;
     uint64 public destGasLimit;
     mapping(uint64 => mapping(string => bytes)) public ourContractOnChains;
 constructor( address payable gatewayAddress,
-        uint64 _destGasLimit ) ERC20("Token","RTK")
+        uint64 _destGasLimit, string memory feePayer ) ERC20("Token","RTK")
         {
             gatewayContract=gatewayAddress;
             destGasLimit=_destGasLimit;
             owner=msg.sender;
+            IGateway(gatewayAddress).setDappMetadata(feePayer);
         }
     modifier onlyOwner() {
         require(owner == msg.sender, "Caller is not owner");
@@ -53,15 +55,15 @@ constructor( address payable gatewayAddress,
         payloads[0] = payload;
 
         IGateway(gatewayContract).requestToDest(
-            Utils.RequestArgs(1000000000000000, false, Utils.FeePayer.APP),
+            Utils.RequestArgs(1000000000000000, false),
             Utils.AckType(Utils.AckType.NO_ACK),
             Utils.AckGasParams(destGasLimit, destGasPrice),
             Utils.DestinationChainParams(
                 destGasLimit,
                 destGasPrice,
                 _dstChainType,
-                _dstChainId
-                // "0x"
+                _dstChainId,
+                "0x"
             ),
             Utils.ContractCalls(payloads, addresses)
         );
