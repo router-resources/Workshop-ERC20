@@ -182,7 +182,7 @@ Step 23) Come back to Remix ,and Call TransferCrossChain function of the Fuji/Bi
 
 Step 24) You can see the CrossTalk transactions here https://alpha-explorer-ui.routerprotocol.com/crosstalks
 
-Step 25) When all 4 green checks are there, come back to Remix again and switch to Mumbai Network
+Step 25) When the status changes to Delivered, come back to Remix again and switch to Mumbai Network
 
 Step 26) Call the function , totalSupply of the Mumbai contract deployed to see the ERC20 tokens transferred
 
