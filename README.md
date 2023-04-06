@@ -33,7 +33,7 @@ Step 3) Create a new file, give a name and save it with ".sol" extension
 <img width="600" alt="image" height="300" height="300" height="300" height="300" height="300" src="https://user-images.githubusercontent.com/124175970/222489012-d0697c9a-c7db-41d8-9591-8b3455862d0a.png">
 
 
-Step 4) Copy the code from [coin.sol](https://github.com/router-resources/Workshop-ERC20/blob/main/CrossChainERC20.sol) and paste it in the editing area
+Step 4) Copy the code from [CrossChainERC20.sol](https://github.com/router-resources/Workshop-ERC20/blob/main/CrossChainERC20.sol) and paste it in the editing area
 
 
 <img width="600" alt="image" height="300" height="300" height="300" height="300" height="300" src="https://user-images.githubusercontent.com/124175970/222489772-ceecb651-0554-4c0a-8185-3684fae93b7a.png">
