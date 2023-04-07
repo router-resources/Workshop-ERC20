@@ -148,7 +148,7 @@ Step 18) Deploy the contract by passing Gateway address of Fuji/Binance ,DestGas
 
 Step 19) Switch to Mumbai Network and deploy the contract by passing Gateway address of Mumbai and DestGasLimit as 500000
 
-Gateway addresses for respective chains can be found here https://devnet-alpha.lcd.routerprotocol.com/router-protocol/router-chain/multichain/chain_config
+Gateway addresses for respective chains can be found here https://devnet.lcd.routerprotocol.com/router-protocol/router-chain/multichain/chain_config
 
 Step 20) Switch to Fuji/Binance Network again and call setContractOnChain  
 Function of the Fuji contract passing in 0, 80001 and address of the Mumbai contract deployed respectively<br/>
@@ -180,7 +180,7 @@ Step 23) Come back to Remix ,and Call TransferCrossChain function of the Fuji/Bi
 
 
 
-Step 24) You can see the CrossTalk transactions here https://alpha-explorer-ui.routerprotocol.com/crosstalks
+Step 24) You can see the CrossTalk transactions here https://devnet-explorer.routerprotocol.com/crosstalks
 
 Step 25) When the status changes to Delivered, come back to Remix again and switch to Mumbai Network
 
