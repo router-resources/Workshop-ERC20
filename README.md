@@ -73,23 +73,8 @@ Step 9) Connect to Mumbai Network :-
 
 <img width="600" alt="image" height="100"  src="https://user-images.githubusercontent.com/124175970/221346184-158921ef-8a72-4197-9706-2e0fb052513b.png">
 
-
-Step 10) connect to Binance Network :-
-	1. Go to https://www.ankr.com/rpc/bsc/
-	2. Select Testnet 
-	3. Click on add to Network
-	</br>
-	<img width="718" alt="image" src="https://user-images.githubusercontent.com/124175970/226446271-9fe1a7cc-9166-46eb-a50a-39258ea3f222.png">
-
-	
-	
-
-<br/>
-Or
-</br>
-
 Step 10) Connect to Fuji Network :-
-	1. Go to https://testnet.snowtrace.io/ 
+1. Go to https://testnet.snowtrace.io/ 
 2. Scroll down to the bottom end and click on Add C-Chain ( Fuji ) Network 
 <br/>
 
@@ -105,11 +90,6 @@ Step 12) Select Inject Provider from Environments in Deployments section<br/>
 
 <img width="600" alt="image" height="500"  src="https://user-images.githubusercontent.com/124175970/221346226-e0e851b9-8212-481f-9901-26793e19fa1a.png">
 
-Step 13) Switch to Binance Chain and copy your wallet address
-
-<img width="600" alt="image" height="500" src="https://user-images.githubusercontent.com/124175970/222494290-26e66b6d-62e7-498b-ae3a-7b2f8395fc37.png">
-
-Or 
 
 Step 13) Switch to Fuji Network and copy your wallet address  
 
@@ -117,12 +97,6 @@ Step 13) Switch to Fuji Network and copy your wallet address
 
 <img width="600" alt="image" height="500" src="https://user-images.githubusercontent.com/124175970/222494290-26e66b6d-62e7-498b-ae3a-7b2f8395fc37.png">
 
-
-Step 14) Add faucet to your account by visiting https://testnet.bnbchain.org/faucet-smart  and pasting your wallet address and then click on REQUEST 2 AVAX <br/>
-
-<img width="706" alt="image" src="https://user-images.githubusercontent.com/124175970/226447308-c4f07d40-3421-4638-bd77-19ffc70b62fc.png">
-
-Or
 
 Step 14) Add faucet to your account by visiting https://faucet.avax.network/  and pasting your wallet address and then click on REQUEST 2 AVAX <br/>
 
@@ -142,15 +116,15 @@ Step 16) Add faucet to your account by visiting https://faucet.polygon.technolog
 
 
 
-Step 17) Come back to Remix and switch to Fuji/Binance Network
+Step 17) Come back to Remix and switch to Fuji Network
 
-Step 18) Deploy the contract by passing Gateway address of Fuji/Binance ,DestGasLimit as 500000 and feePayer as router1z6ralzg5tsznq9s6xmutyeen7evylcj7harhmq
+Step 18) Deploy the contract by passing Gateway address of Fuji and feePayer as router1z6ralzg5tsznq9s6xmutyeen7evylcj7harhmq
 
-Step 19) Switch to Mumbai Network and deploy the contract by passing Gateway address of Mumbai and DestGasLimit as 500000
+Step 19) Switch to Mumbai Network and deploy the contract by passing Gateway address of Mumbai and keeping the feepayer same or differeent than on Fuji
 
-Gateway addresses for respective chains can be found here https://devnet.lcd.routerprotocol.com/router-protocol/router-chain/multichain/chain_config
+Gateway addresses for respective chains can be found here https://lcd.testnet.routerchain.dev//router-protocol/router-chain/multichain/chain_config
 
-Step 20) Switch to Fuji/Binance Network again and call setContractOnChain  
+Step 20) Switch to Fuji Network again and call setContractOnChain  
 Function of the Fuji contract passing in 0, 80001 and address of the Mumbai contract deployed respectively<br/>
 
 
