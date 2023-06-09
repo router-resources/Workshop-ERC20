@@ -125,28 +125,30 @@ Step 19) Switch to Mumbai Network and deploy the contract by passing Gateway add
 Gateway addresses for respective chains can be found here https://lcd.testnet.routerchain.dev//router-protocol/router-chain/multichain/chain_config
 
 Step 20) Switch to Fuji Network again and call setContractOnChain  
-Function of the Fuji contract passing in 0, 80001 and address of the Mumbai contract deployed respectively<br/>
+Function of the Fuji contract passing in 80001 and address of the Mumbai contract deployed respectively<br/>
 
 
-
-<img width="600" alt="image" height="300" height="300" height="300" height="300" height="300" src="https://user-images.githubusercontent.com/124175970/221346331-d08e77aa-2dad-421e-9297-6a6d19ceea52.png">
+<img width="600" alt="image" height="300" height="300" height="300" height="300" height="300" src="https://github.com/router-resources/Workshop-ERC20/assets/124175970/2ff9213a-67f5-4457-89fc-296e54d838ea">
 
 
 
 Step 21) Switch to Mumbai Network and call setContractOnChain  
-Function of the Mumbai contract passing in 0, 43113 and address of the Fuji Contract Deployed 
+Function of the Mumbai contract passing in 43113 and address of the Fuji Contract Deployed 
 
-Step 22) Switch to Fuji/Binance Network and mint some ERC20 Tokens through mint function of the Fuji/Binance contract deployed<br/>
+Step 22) Switch to Fuji Network and mint some ERC20 Tokens through mint function of the Fuji contract deployed<br/>
 
 
 
 <img width="600" alt="image" height="300"  src="https://user-images.githubusercontent.com/124175970/221346368-d761fb5c-4596-44c8-973d-0c97e800c267.png">
 
 
+Step 23) Generate request metadata by passing in the following parameters to getRequestMetadata function on Fuji Contract and calling it.
+
+![image](https://github.com/router-resources/Workshop-ERC20/assets/124175970/059c8ee8-b230-40b4-992a-6e85a2ae4665)
 
 
 
-Step 23) Come back to Remix ,and Call TransferCrossChain function of the Fuji/Binance contract deployed , passing in 0, 80001 ,30000000000 ,recipient address and amount as parameters<br/>
+Step 23) Call TransferCrossChain function of the Fuji contract deployed , passing in 0, 80001 ,30000000000 ,recipient address and amount as parameters<br/>
 
 
 
