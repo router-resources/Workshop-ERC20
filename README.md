@@ -118,9 +118,9 @@ Step 16) Add faucet to your account by visiting https://faucet.polygon.technolog
 
 Step 17) Come back to Remix and switch to Fuji Network
 
-Step 18) Deploy the contract by passing Gateway address of Fuji and feePayer as router1z6ralzg5tsznq9s6xmutyeen7evylcj7harhmq
+Step 18) Deploy the contract by passing Gateway address corresponding to Fuji and feePayer as your wallet address
 
-Step 19) Switch to Mumbai Network and deploy the contract by passing Gateway address of Mumbai and keeping the feepayer same or differeent than on Fuji
+Step 19) Switch to Mumbai Network and deploy the contract by passing Gateway address corresponding to Mumbai and keeping the feepayer same or differeent than on Fuji
 
 Gateway addresses for respective chains can be found here https://lcd.testnet.routerchain.dev//router-protocol/router-chain/multichain/chain_config
 
@@ -148,21 +148,35 @@ Step 23) Generate request metadata by passing in the following parameters to get
 
 
 
-Step 23) Call TransferCrossChain function of the Fuji contract deployed , passing in 0, 80001 ,30000000000 ,recipient address and amount as parameters<br/>
+Step 24) Call TransferCrossChain function of the Fuji contract deployed , passing in the amount of tokens you want to send in amount ,80001 in destChainId, Wallet Address you want to send the tokens to on Mumbai in recipient as the first three parameters .
 
 
+![image](https://github.com/router-resources/Workshop-ERC20/assets/124175970/ac27c603-61b2-4755-8561-9de95b31056d)
 
-<img width="600" alt="image" height="300" height="300" height="300" height="300" height="300" src="https://user-images.githubusercontent.com/124175970/221346412-bce85fb1-139f-42ed-ade6-e916b09b5fdd.png">
+Step 24) Go to getRequestMetadata function and copy the generate Metadata and paste it as the 4th parameter in transferCrossChain functio n and click on call
+
+Step 25) Visit Router Testnet Explorer https://explorer.testnet.routerchain.dev/feePayer and switch to Router Testnet by clicking on switch 
+
+![image](https://github.com/router-resources/Workshop-ERC20/assets/124175970/ee800320-6a7a-4b24-924c-6817a301727a)
 
 
+Step 26) Search for your Fuji Contract address and click on approve
 
-Step 24) You can see the CrossTalk transactions here https://devnet-explorer.routerprotocol.com/crosstalks
+![image](https://github.com/router-resources/Workshop-ERC20/assets/124175970/d25d11d8-77fc-4858-8bbb-13d0644856f5)
 
-Step 25) When the status changes to Delivered, come back to Remix again and switch to Mumbai Network
+![image](https://github.com/router-resources/Workshop-ERC20/assets/124175970/84278547-96c5-426a-a352-6f81f3f24194)
 
-Step 26) Call the function , totalSupply of the Mumbai contract deployed to see the ERC20 tokens transferred
+Step 27) Come to CrossChain section and find your transaction.
 
-Step 27) Earn your NFT Certificate . Fill the below form.
+![image](https://github.com/router-resources/Workshop-ERC20/assets/124175970/973993a0-0f46-4517-8000-0cf9d7710815)
+
+Step 28) Open your transaction and wait till all 5 checks are green in Destination Timeline
+
+![image](https://github.com/router-resources/Workshop-ERC20/assets/124175970/5b5cd4a5-792c-4f58-a1a3-5d03ec4e4bd8)
+
+Step 29) Call the function , totalSupply of the Mumbai contract deployed to see the ERC20 tokens transferred
+
+Step 30) Earn your NFT Certificate . Fill the below form.
 
 https://docs.google.com/forms/d/e/1FAIpQLSd8Xuiuw32kOqGsWmT5s7GLjLVZ_rHXw9bAJbdbr0XzrVG6RA/viewform?embedded=true
 	
