@@ -153,7 +153,7 @@ Step 24) Call TransferCrossChain function of the Fuji contract deployed , passin
 
 ![image](https://github.com/router-resources/Workshop-ERC20/assets/124175970/ac27c603-61b2-4755-8561-9de95b31056d)
 
-Step 24) Go to getRequestMetadata function and copy the generate Metadata and paste it as the 4th parameter in transferCrossChain functio n and click on call
+Step 24) Go to getRequestMetadata function and copy the generated Metadata and paste it as the 4th parameter in transferCrossChain function and click on call
 
 Step 25) Visit Router Testnet Explorer https://explorer.testnet.routerchain.dev/feePayer and switch to Router Testnet by clicking on switch 
 
